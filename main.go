@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/terraform-provider-zvmsdk/zvmsdk"
+	"github.com/jichenjc/terraform-provider-zvmsdk/zvmsdk"
 	"github.com/hashicorp/terraform/plugin"
 	"math/rand"
 	"time"
